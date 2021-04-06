@@ -1,1 +1,1 @@
-# Canadin-superstore-sales-analysis
+# Canadian-superstore-sales-analysis

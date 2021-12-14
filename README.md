@@ -4,7 +4,27 @@
 
 In this notebook we will explore Data of a canadian superstore that exists in different places around the world and try to gain some insights about the business and the most selling products.
 
-Some of our conclusions was:
+- Answered Some key questions related to the business that would help the stakeholders
+- Applied some data cleaning to get the data inshape
+- Featued Engineered important information from existing columns
+- Revealed some relationships among features
+
+# Code and Resources Used
+
+**Python Version:** 3.7
+
+**Packages:** Pandas,numpy,sklearn,matplotlib,seaborn
+
+# Data Cleaning:
+- Changed some column types
+- Dropped some unnecessary columns
+
+# Features Engineers:
+-Extracted some information form the order_date column
+
+# Exploratory Data analysis:
+
+Some of the insights i have concluded in the data are:
 
 * The sales trend over the years is increasing along the from 2011 to 2014
 * Customers prefer to use Standard class & Second class as shipping modes
